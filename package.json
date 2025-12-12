@@ -27,7 +27,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node api/server.js",
     "build": "react-scripts build",
     "server": "json-server --watch db.json --port 5000"
   },
@@ -37,6 +37,7 @@
       "react-app/jest"
     ]
   },
+  
   "browserslist": {
     "production": [
       ">0.2%",
