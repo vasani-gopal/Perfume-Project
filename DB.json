@@ -1,0 +1,310 @@
+{
+  "perfume": [
+    {
+      "id": "1",
+      "img": "https://i.redd.it/1s3mfik3k2vc1.jpeg",
+      "price": "₹4149",
+      "desc": "Jimmy Choo",
+      "category": "Jimmy Choo"
+    },
+    {
+      "id": "2",
+      "img": "https://m.media-amazon.com/images/I/71RSfj2ozmL.jpg",
+      "price": "₹2074",
+      "desc": "Fogg",
+      "category": "Fogg"
+    },
+    {
+      "id": "3",
+      "img": "https://images.unsplash.com/photo-1594035910387-fea47794261f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": "₹4979",
+      "desc": "Coco Noir",
+      "category": "Coco Noir"
+    },
+    {
+      "id": "4",
+      "img": "https://images.unsplash.com/photo-1610461888750-10bfc601b874?q=80&w=699&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": "₹5809",
+      "desc": "Prada",
+      "category": "Prada"
+    },
+    {
+      "id": "5",
+      "img": "https://images.unsplash.com/photo-1608528577891-eb055944f2e7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": "₹3319",
+      "desc": "Red Diamond",
+      "category": "Red Diamond"
+    },
+    {
+      "id": "6",
+      "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1723645081-screenshot-2024-08-14-at-15-17-39-66bcbc90b8180.png?crop=0.883xw:0.935xh;0.0545xw,0.0323xh&resize=980:*",
+      "price": "₹4559",
+      "desc": "Sauvage",
+      "category": "Sauvage"
+    }
+  ],
+  "Jimmy Choo": [
+    {
+      "id": "1",
+      "img": "https://media.jimmychoo.com/image/upload/f_auto,q_auto:best,dpr_2.0,w_520,h_520,c_fit/ROWPROD_PRODUCT/images/original/IRISCRUSH125MLFLGG_121645_FRONT_vg442.jpg",
+      "price": "₹17100",
+      "desc": "Iris Crush EDP 125ml",
+      "category": "Jimmy Choo"
+    },
+    {
+      "id": "2",
+      "img": "https://media.jimmychoo.com/image/upload/f_auto,q_auto:best,dpr_2.0,w_520,h_520,c_fit/ROWPROD_PRODUCT/images/original/JCROSEPASSION40MLFFPD_112728_FRONT.jpg",
+      "price": "₹5310",
+      "desc": "Rose Passion EDP 40ml Jimmy Choo Rose Passion Eau De Parfum 40ml",
+      "category": "Jimmy Choo"
+    },
+    {
+      "id": "3",
+      "img": "https://media.jimmychoo.com/image/upload/f_auto,q_auto:best,dpr_2.0,w_520,h_520,c_fit/ROWPROD_PRODUCT/images/original/JCLEAUEDT40MLFLTP_0C5121_FRONT_vg79.jpg",
+      "price": "₹4410",
+      "desc": "LEau EDT 40ml Jimmy Choo L'eau EDT 40ml",
+      "category": "Jimmy Choo"
+    },
+    {
+      "id": "4",
+      "img": "https://media.jimmychoo.com/image/upload/f_auto,q_auto:best,dpr_2.0,w_520,h_520,c_fit/ROWPROD_PRODUCT/images/original/JCFEVEREDP100MLFDPP_051378_BOTTLE_vg01.jpg",
+      "price": "₹9900",
+      "desc": "Fever EDP 100ml Jimmy Choo Fever 100ml",
+      "category": "Jimmy Choo"
+    },
+    {
+      "id": "5",
+      "img": "https://media.jimmychoo.com/image/upload/f_auto,q_auto:best,dpr_2.0,w_520,h_520,c_fit/ROWPROD_PRODUCT/images/original/JCEDP60MLFPKC_110653_vg31.jpg",
+      "price": "₹8010",
+      "desc": "Jimmy Choo EDP 60ml Jimmy Choo Eau De Parfum 60ml",
+      "category": "Jimmy Choo"
+    },
+    {
+      "id": "6",
+      "img": "https://media.jimmychoo.com/image/upload/f_auto,q_auto:best,dpr_2.0,w_520,h_520,c_fit/ROWPROD_PRODUCT/images/original/JCIWCFOREVER100MLFJCB_013834_FRONT_vg31.jpg",
+      "price": "₹11070",
+      "desc": "I Want Choo Forever EDP 100ml Jimmy Choo I Want Choo Forever Eau De Parfum 100ml",
+      "category": "Jimmy Choo"
+    }
+  ],
+  "Fogg": [
+    {
+      "id": "1",
+      "img": "https://m.media-amazon.com/images/I/41i3IrvLqIL._SX300_SY300_QL70_FMwebp_.jpg",
+      "price": "₹2074",
+      "desc": "Scent Impressio For Men, 90 ml",
+      "category": "Fogg"
+    },
+    {
+      "id": "2",
+      "img": "https://m.media-amazon.com/images/I/61zWE4gxiNL._SX466_.jpg",
+      "price": "₹2074",
+      "desc": "Scent Intensio Eau de Parfum for Men | 3.38oz | Long-Lasting Men's Fragrance | Fresh & Intense Scent with Mandarin, Lemon & Neroli Notes | Gift-Ready Cologne",
+      "category": "Fogg"
+    },
+    {
+      "id": "3",
+      "img": "https://m.media-amazon.com/images/I/614jPzueegL._SX466_.jpg",
+      "price": "₹1660",
+      "desc": "Absolute Fragrance Body Spray, 120Ml",
+      "category": "Fogg"
+    },
+    {
+      "id": "4",
+      "img": "https://m.media-amazon.com/images/I/51zsmRAlWkL._SX466_.jpg",
+      "price": "₹281",
+      "desc": "Impressio Eau De Parfum Scent for Men, Amber Woody",
+      "category": "Fogg"
+    },
+    {
+      "id": "5",
+      "img": "https://m.media-amazon.com/images/I/71l9cAgrDzL._SX466_.jpg",
+      "price": "₹580",
+      "desc": "Xtremo Scent For Men, 100 ml (Pack of 1) Black",
+      "category": "Fogg"
+    },
+    {
+      "id": "6",
+      "img": "https://m.media-amazon.com/images/I/41MZZ2R-9kL._AC_.jpg",
+      "price": "₹1991",
+      "desc": "Make My Day Eau de Parfum - 90 ml(for Girls, Women)",
+      "category": "Fogg"
+    }
+  ],
+  "Coco Noir": [
+    {
+      "id": "1",
+      "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/coco-noir-eau-de-parfum-spray-3-4fl-oz--packshot-default-113660-9564891283486.jpg",
+      "price": "₹14608",
+      "desc": "Eau de Parfum Spray",
+      "category": "Coco Noir"
+    },
+    {
+      "id": "2",
+      "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/coco-eau-de-parfum-spray-3-4fl-oz--packshot-default-113530-9539148840990.jpg",
+      "price": "₹14608",
+      "desc": "Eau de Parfum Spray",
+      "category": "Coco Noir"
+    },
+    {
+      "id": "3",
+      "img": "https://m.media-amazon.com/images/I/41ry+rmLogL._AC_SY879_.jpg",
+      "price": "₹1660",
+      "desc": "Coco Noir Eau De Parfum Spray 50ml/1.7oz",
+      "category": "Coco Noir"
+    },
+    {
+      "id": "4",
+      "img": "https://fimgs.net/mdimg/perfume-thumbs/375x500.61856.2x.avif",
+      "price": "₹11402",
+      "desc": "Le Male Le Parfum Jean Paul Gaultier",
+      "category": "Coco Noir"
+    },
+    {
+      "id": "5",
+      "img": "https://fimgs.net/mdimg/perfume-thumbs/375x500.39314.2x.avif",
+      "price": "₹5062",
+      "desc": "Layton Parfums de Marly",
+      "category": "Coco Noir"
+    },
+    {
+      "id": "6",
+      "img": "https://fimgs.net/mdimg/perfume-thumbs/375x500.88836.2x.avif",
+      "price": "₹19172",
+      "desc": "Le Beau Paradise Garden Jean Paul Gaultier",
+      "category": "Coco Noir"
+    }
+  ],
+  "Prada": [
+    {
+      "id": "1",
+      "img": "https://m.media-amazon.com/images/I/61cxAMIqmBL._SY679_.jpg",
+      "price": "₹12367",
+      "desc": "Prada Paradoxe Intense By Prada for Women 3.0 oz Eau de Parfum Spray Refillable",
+      "category": "Prada"
+    },
+    {
+      "id": "2",
+      "img": "https://m.media-amazon.com/images/I/71VMMXYomAL._SY679_.jpg",
+      "price": "₹9380",
+      "desc": "Prada La Femme by Prada for Women 3.4 oz Eau de Parfum Spray, multi",
+      "category": "Prada"
+    },
+    {
+      "id": "3",
+      "img": "https://m.media-amazon.com/images/I/61NSnUSfxFL._SX466_.jpg",
+      "price": "₹12367",
+      "desc": "Prada Paradoxe by Prada for Women 3.0 oz Eau de Parfum Spray Rechargeable",
+      "category": "Prada"
+    },
+    {
+      "id": "4",
+      "img": "https://m.media-amazon.com/images/I/51uU8+7QOLL._SY679_.jpg",
+      "price": "₹7221",
+      "desc": "Prada Luna Rossa Black for Men 3.4 oz Eau de Parfum Spray",
+      "category": "Prada"
+    },
+    {
+      "id": "5",
+      "img": "https://m.media-amazon.com/images/I/51asQ-zS-tL._SX466_.jpg",
+      "price": "₹7304",
+      "desc": "Prada Luna Rossa Ocean Le Parfum Refillable Spray for Men, 3.3 Ounce",
+      "category": "Prada"
+    },
+    {
+      "id": "6",
+      "img": "https://m.media-amazon.com/images/I/61XUAinR+AL._SX466_.jpg",
+      "price": "₹5600",
+      "desc": "Prada - Eau de Toilette Luna Rossa Sport 100 ml",
+      "category": "Prada"
+    }
+  ],
+  "Red Diamond": [
+    {
+      "id": "1",
+      "img": "https://www.eyeoflove.com/cdn/shop/files/AttractHimRed-1036_1efa9cb6-23af-4f60-98ac-14dcc7df5be9.jpg?v=1712877600&width=1800",
+      "price": "₹8900",
+      "desc": "Matchmaker Red Diamond Pheromone Perfume",
+      "category": "Red Diamond"
+    },
+    {
+      "id": "2",
+      "img": "https://imgs.search.brave.com/FoIaugz9SSC7SreHANp764HIcCEylbvXXmXiUkNP334/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZXllb2Zsb3ZlLmNv/bS9jZG4vc2hvcC9m/aWxlcy9waWMxMS5q/cGc_dj0xNzQzMTAz/NjcwJndpZHRoPTcy/MA",
+      "price": "₹8900",
+      "desc": "Matchmaker Red Diamond Pheromone Perfume",
+      "category": "Red Diamond"
+    },
+    {
+      "id": "3",
+      "img": "https://imgs.search.brave.com/2ZQ3C7CmG2mx03oRR_txB2quQdNG3v2p167dmhXWSkg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZXllb2Zsb3ZlLmNv/bS9jZG4vc2hvcC9m/aWxlcy9FT0wtUC00/M00ucG5nP3Y9MTc0/ODg1Mzk4Mw",
+      "price": "₹8900",
+      "desc": "Red Diamond bottle in woman hand",
+      "category": "Red Diamond"
+    },
+    {
+      "id": "4",
+      "img": "https://s.alicdn.com/@sc04/kf/H6b2c84c354ed475382936c4272b93c6d4.jpg_300x300.jpg",
+      "price": "₹8900",
+      "desc": "White Diamond Perfume50ml Flower and Frui",
+      "category": "Red Diamond"
+    },
+    {
+      "id": "5",
+      "img": "https://imgs.search.brave.com/DnSqQSaDS28HIHyDiSKKau_l-1HEdwI16E2R5yyPs0s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFQSFlOSnpxV0wu/anBn",
+      "price": "₹8900",
+      "desc": "Eye of Love Matchmaker Red Diamond Pheromone Perfume for Women - Long Lasting Fragrances with Floral Citrus Scent - Plan",
+      "category": "Red Diamond"
+    },
+    {
+      "id": "6",
+      "img": "https://imgs.search.brave.com/G_NIl7J27ivsOdQJ9jotWIVInuLMgkmTyfeKw6cQubU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzE2SlNhM21jT0wu/anBn",
+      "price": "₹8900",
+      "desc": "Eye of Love Matchmaker Black Diamond LGBTQ",
+      "category": "Red Diamond"
+    }
+  ],
+  "Sauvage": [
+    {
+      "id": "1",
+      "img": "https://www.dior.com/dw/image/v2/BGXS_PRD/on/demandware.static/-/Sites-master_dior/default/dwad9cc9b4/Y0998004/Y0998004_C099600455_E01_RHC.jpg?sw=1024",
+      "price": "₹12400",
+      "desc": "Fragrances Sauvage Parfum Parfum - Citrus and Woody Notes - Refillable",
+      "category": "Sauvage"
+    },
+    {
+      "id": "2",
+      "img": "https://www.dior.com/dw/image/v2/BGXS_PRD/on/demandware.static/-/Sites-master_dior/default/dw8a216575/Y3997000/Y3997000_C399700029_E01_RHC.jpg?sw=1024",
+      "price": "₹11500",
+      "desc": "Refills Sauvage Eau de Parfum Refill Eau de Parfum Refill - Citrus and Vanilla Notes",
+      "category": "Sauvage"
+    },
+    {
+      "id": "3",
+      "img": "https://www.dior.com/dw/image/v2/BGXS_PRD/on/demandware.static/-/Sites-master_dior/default/dwb6c72762/Y0997146/Y0997146_C099700672_E01_ZHC.jpg?sw=1920",
+      "price": "₹12400",
+      "desc": "Sauvage Mencare Sauvage The Cleanser Face Cleanser - Black Charcoal and Cactus - Purifying and Non-Drying",
+      "category": "Sauvage"
+    },
+    {
+      "id": "4",
+      "img": "https://www.dior.com/dw/image/v2/BGXS_PRD/on/demandware.static/-/Sites-master_dior/default/dw2d6b8607/Y0006550/Y0006550_F000655000_E01_RHC.jpg?sw=1024",
+      "price": "₹24000",
+      "desc": "Bath & Shaving Sauvage After-shave lotion",
+      "category": "Sauvage"
+    },
+    {
+      "id": "5",
+      "img": "https://images-static.nykaa.com/media/catalog/product/d/b/db992ab3348901368247.jpg",
+      "price": "₹14200",
+      "desc": "DIOR Sauvage Eau De Parfum (100ml)",
+      "category": "Sauvage"
+    },
+    {
+      "id": "6",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/b/2bbfe273348901728829_1.jpg",
+      "price": "₹12900",
+      "desc": "DIOR Sauvage Eau Forte (60ml)",
+      "category": "Sauvage"
+    }
+  ]
+}
